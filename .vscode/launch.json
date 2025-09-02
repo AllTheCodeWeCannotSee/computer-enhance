@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hao/projects/computer-enhance/序章：五大加速因子",
+      "program": "/Users/hao/projects/computer-enhance/序章：五大加速因子/build/Debug/outDebug"
+    }
+  ]
+}
